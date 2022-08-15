@@ -19,6 +19,7 @@ Happy learning!
 * [Code](Code): notable project or sample repositories with code that can be used for reference.
 * [Social Media](Social%20Media): find all your social media influencers related to .NET MAUI here.
 * [Videos](Videos): YouTube channels, Twitch streamers, full courses, etc.
+* [Other](Other): links that do not fit in any of the other sections. Think of newsletters and podcasts.
 
 ## Official Links
 
