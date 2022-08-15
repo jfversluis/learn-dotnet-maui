@@ -2,13 +2,11 @@
 
 You don't want videos or any of that stuff, just give me a blog post so I can use CTRL + F! No worries, all kinds of amazing blogs are listed right here!
 
-## Blogs to Learn About .NET MAUI
-
-### Official Blogs
+## Official Blogs
 
 * [.NET Blog (.NET MAUI category)](https://devblogs.microsoft.com/dotnet/category/maui/)
 
-### Community Blogs
+## Community Blogs
 
 * [planetxamarin.com](https://planetxamarin.com): a blog (and some YouTube channels and podcasts) aggregator for Xamarin and now .NET MAUI content. You will probably find some people listed here on this wonderful website as well.
 * [Vladislav Antonyuk](https://vladislavantonyuk.azurewebsites.net/)
