@@ -38,6 +38,7 @@ Leomaris does it all and is essential to the .NET MAUI community.
 * [Saamer Mansoor](https://twitter.com/Saamerm): is launching some amazing projects focussed on accessibility and inclusion all built with .NET technology. Lucky for us, he also shares his knowledge through Twitter and his blogs!
 * [Samir GC](https://twitter.com/xamaringuy)
 * [Shaun Lawrence](https://twitter.com/Bijington): Microsoft MVP doing amazing things with .NET MAUI in terms of games, animations and UIs
+* [Vicente Guzman](https://twitter.com/luciomsp)
 
 ## Discord
 
