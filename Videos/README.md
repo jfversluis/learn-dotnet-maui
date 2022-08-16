@@ -13,6 +13,7 @@ And action! If you like to learn through videos, this is the place for you! Here
 * [Gerald Versluis](https://youtube.com/GeraldVersluis): YouTube channel by the maintainer of this repo!
 * [James Montemagno](https://youtube.com/JamesMontemagno): our best friend in the entire world! James Montemagno posting .NET MAUI and more general .NET content on his channel.
 * [Javier Suarez](https://youtube.com/JavierSu%C3%A1rezRuiz): Javier from the .NET MAUI team posts video about .NET MAUI both in English and Spanish.
+* [Naweed Akram](https://youtube.com/user/xgeno2)
 * [Xamarin Guy](https://www.youtube.com/channel/UCBKLE3rLU0CJebTBJ_N4ajQ): Samir G.C from Nepal has great content about .NET MAUI on his channel.
 
 ### Twitch

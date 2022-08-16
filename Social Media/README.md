@@ -11,6 +11,8 @@ You find someone that is doing some great stuff and you're using their open-sour
 
 * [Allan Ritchie](https://github.com/aritchie)
 * [Frank Krueger](http://github.com/praeclarum)
+* [Gerald Versluis](https://github.com/jfversluis)
+* [Naweed Akram](https://t.co/y69wvVCoE8)
 * [Pedro Jesus](https://github.com/pictos)
 * [Vladislav Antonyuk](https://github.com/VladislavAntonyuk)
 
@@ -30,6 +32,7 @@ Leomaris does it all and is essential to the .NET MAUI community.
 * [Luis Matos](https://twitter.com/luismatosluna)
 * [Luis Pujols](https://twitter.com/Pujolsluis1)
 * [Maddy Montaquila (Leger)](https://twitter.com/maddymontaquila): Program Manager at Microsoft
+* [Naweed Akram](https://twitter.com/xgeno)
 * [Pedro Jesus](https://twitter.com/pj_souz): no advanced topic is too much for Pedro. All the way from Brazil he works on open-source projects, one of which is the .NET MAUI Community Toolkit
 * [Rendy Del Rosario](https://twitter.com/rdelrosario): you might know him as XamBoy (yes, from XamGirl). Frequent blogger and project maintainer of some great plugins
 * [Saamer Mansoor](https://twitter.com/Saamerm): is launching some amazing projects focussed on accessibility and inclusion all built with .NET technology. Lucky for us, he also shares his knowledge through Twitter and his blogs!

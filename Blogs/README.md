@@ -19,6 +19,7 @@ You don't want videos or any of that stuff, just give me a blog post so I can us
 * [Luis Matos](https://www.luismts.com/)
 * [Luis Pujols](https://www.pujolsluis.com/)
 * [Mark Allibone](https://mallibone.com/)
+* [Naweed Akram](https://blogs.xgenoapps.com)
 * [planetxamarin.com](https://planetxamarin.com): a blog (and some YouTube channels and podcasts) aggregator for Xamarin and now .NET MAUI content. You will probably find some people listed here on this wonderful website as well.
 * [Rendy Del Rosario](https://www.xamboy.com/)
 * [Saamer Mansoor](https://prototypemakers.medium.com/)
