@@ -24,5 +24,5 @@ You don't want videos or any of that stuff, just give me a blog post so I can us
 * [Rendy Del Rosario](https://www.xamboy.com/)
 * [Saamer Mansoor](https://prototypemakers.medium.com/)
 * [Shaun Lawrence](https://blog.bijington.com): if you want to learn more about games, animations and allround great designs, Shaun is the person to keep your eye on!
-* [Vicente Guzman](https://www.vicenteguzman.com/)
+* [Vicente Guzman](https://vicenteguzman.com/)
 * [Vladislav Antonyuk](https://vladislavantonyuk.azurewebsites.net/)
