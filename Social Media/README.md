@@ -15,6 +15,7 @@ You find someone that is doing some great stuff and you're using their open-sour
 * [Naweed Akram](https://t.co/y69wvVCoE8)
 * [Pedro Jesus](https://github.com/pictos)
 * [Vladislav Antonyuk](https://github.com/VladislavAntonyuk)
+* [James Montemagno](https://github.com/jamesmontemagno)
 
 ## Twitter
 
