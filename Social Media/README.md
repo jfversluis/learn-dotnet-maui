@@ -12,7 +12,7 @@ You find someone that is doing some great stuff and you're using their open-sour
 * [Allan Ritchie](https://github.com/aritchie)
 * [Frank Krueger](http://github.com/praeclarum)
 * [Gerald Versluis](https://github.com/jfversluis)
-* [Naweed Akram](https://t.co/y69wvVCoE8)
+* [Naweed Akram](https://github.com/naweed)
 * [Pedro Jesus](https://github.com/pictos)
 * [Vladislav Antonyuk](https://github.com/VladislavAntonyuk)
 * [James Montemagno](https://github.com/jamesmontemagno)
