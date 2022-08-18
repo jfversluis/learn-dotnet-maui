@@ -1,0 +1,12 @@
+{
+    "replacementPatterns": [
+    {
+        "pattern": " ",
+        "replacement": "%20"
+    }
+    ],
+    "aliveStatusCodes": [
+        200,
+        429
+    ]
+}
