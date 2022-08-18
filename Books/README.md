@@ -5,3 +5,4 @@ Light up that fireplace, get a coffee or tea, snuggle in with that blanket and g
 ## Books to Learn About .NET MAUI
 
 * [Enterprise Application Patterns using .NET MAUI](https://aka.ms/maui-ebook): ebook released in August 2022, authored by [Michael Stonis](https://github.com/michaelstonis)
+* [.NET MAUI in Action](https://www.manning.com/books/dot-net-maui-in-action): print + ebook - still being written, authored by [Matt Goldman](https://github.com/matt-goldman)
