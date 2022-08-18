@@ -1,6 +1,7 @@
 name: Broken Links Check Scheduled
 # runs every Monday at 9am
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 9 * * 1"
 
