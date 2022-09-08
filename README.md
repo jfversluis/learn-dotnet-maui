@@ -26,6 +26,7 @@ Happy learning!
 * [.NET MAUI GitHub repository](https://github.com/dotnet/maui): the .NET MAUI GitHub repository where the project is actively developed.
 * [.NET MAUI Microsoft Docs](https://aka.ms/maui/docs): the official Microsoft documentation about .NET MAUI.
 * [.NET MAUI Learn Path](https://aka.ms/maui/mslearn): an interactive .NET MAUI course on the Microsoft Learn website with hands-on examples to start learning .NET MAUI.
+* [.NET MAUI Learn Live](https://aka.ms/learnlive-mobile-desktop-apps-dotnet-maui): 7 live streamed episodes where you can learn to build your first .NET MAUI app together with James Montemagno and Matthew Soucoup.
 
 ### Attribution
 
