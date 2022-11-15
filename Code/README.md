@@ -15,6 +15,10 @@ Over the years with Xamarin many people have proven that Xamarin and now .NET MA
 * [Javiers' Good Looking UIs Samples repo](https://github.com/jsuarezruiz/dotnet-maui-showcase)
 * [Snppts](https://snppts.dev)
 
+## Extensions
+
+* [MAUI App Accelerator](https://github.com/mrlacey/MauiAppAccelerator): Jumpstart your .NET MAUI application development by scaffolding the project you want. Specify the coding style, navigation pattern, pages, and features you want in your app as a starting point.
+
 ## Plugins / NuGets
 
 Underneath you will find a list of open-source plugins that are ready to use with your .NET MAUI application.
