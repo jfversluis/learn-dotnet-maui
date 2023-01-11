@@ -27,6 +27,7 @@ Remember; every plugin is just someone else doing work you could've done yoursel
 
 * [CommunityToolkit.Maui](https://github.com/CommunityToolkit/Maui): The .NET MAUI Community Toolkit is a community-created library that contains .NET MAUI Extensions, Advanced UI/UX Controls, and Behaviors to help make your life as a .NET MAUI developer easier.
 * [CommunityToolkit.Maui.Markup](https://github.com/CommunityToolkit/Maui.Markup): The .NET MAUI Markup Community Toolkit is a community-created library that contains Fluent C# Extension Methods to easily create your User Interface in C#.
+* [LocalizationResourceManager.Maui](https://github.com/SirJohnK/LocalizationResourceManager.Maui): The .NET MAUI equivalent of the localization helpers that were in the Xamarin Community Toolkit.
 * [Maui.Controls.BottomSheet](https://github.com/naweed/Maui.Controls.BottomSheet): A simple customizable Bottom Sheet control built using .NET MAUI.
 * [Maui.Controls.RatingView](https://github.com/naweed/Maui.Controls.RatingView): A simple and customizable Rating View control for use with .NET MAUI Apps.
 * [MetroLog.Maui](https://github.com/roubachof/MetroLog): lightweight logging framework with .NET MAUI support.
