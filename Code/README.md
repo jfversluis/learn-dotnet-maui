@@ -30,7 +30,9 @@ Remember; every plugin is just someone else doing work you could've done yoursel
 * [LocalizationResourceManager.Maui](https://github.com/SirJohnK/LocalizationResourceManager.Maui): The .NET MAUI equivalent of the localization helpers that were in the Xamarin Community Toolkit.
 * [Maui.Controls.BottomSheet](https://github.com/naweed/Maui.Controls.BottomSheet): A simple customizable Bottom Sheet control built using .NET MAUI.
 * [Maui.Controls.RatingView](https://github.com/naweed/Maui.Controls.RatingView): A simple and customizable Rating View control for use with .NET MAUI Apps.
+* [Maui.GoogleMaps](https://github.com/themronion/Maui.GoogleMaps): don't want Apple Maps? With this plugin you get Google Maps on both iOS and Android, filled with options!
 * [MetroLog.Maui](https://github.com/roubachof/MetroLog): lightweight logging framework with .NET MAUI support.
 * [Plugin.Fingerprint](https://github.com/smstuebe/xamarin-fingerprint): biometric login support for .NET MAUI.
+* [Plugin.Maui.Audio](https://github.com/jfversluis/Plugin.Maui.Audio): library for playing audio in your .NET MAUI app.
 * [Shiny](https://github.com/shinyorg/shiny): background tasks, Bluetooth, GPS, NFC, push notifications and more.
 * [ZXing.Net.Maui](https://github.com/redth/ZXing.Net.Maui): barcode scanning in Xamarin was easy with ZXing, now we have the same power for .NET MAUI!
