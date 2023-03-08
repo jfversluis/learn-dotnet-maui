@@ -14,6 +14,7 @@ Over the years with Xamarin many people have proven that Xamarin and now .NET MA
 
 * [Javiers' Good Looking UIs Samples repo](https://github.com/jsuarezruiz/dotnet-maui-showcase)
 * [Snppts](https://snppts.dev)
+* [Marvelous .NET MAUI](https://github.com/RadekVyM/MarvelousMAUI): This project demonstrates how to develop tailored UI using .NET MAUI. However, Marvelous .NET MAUI is not just a demonstration, it is a **fully functional app**.
 
 ## Extensions
 
