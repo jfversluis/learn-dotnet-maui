@@ -16,6 +16,12 @@ And action! If you like to learn through videos, this is the place for you! Here
 * [Naweed Akram](https://youtube.com/user/xgeno2)
 * [Xamarin Guy](https://www.youtube.com/channel/UCBKLE3rLU0CJebTBJ_N4ajQ): Samir G.C from Nepal has great content about .NET MAUI on his channel.
 * [Coding Flamingo](https://www.youtube.com/channel/UCjGgqULI1EX0VEoizrD6PYA): Focuses on Blazor on all its forms including a big part of Blazor on .NET MAUI.
-### Twitch
+
+## Twitch
 
 * [Kym Phillpots](https://www.twitch.tv/kymphillpotts)
+
+## LinkedIn Learning
+* [.NET MAUI beyond the basics by Kevin Ford](https://www.linkedin.com/learning/dot-net-maui-beyond-the-basics/)
+* [.NET MAUI Essential Training by Matt Milner](https://www.linkedin.com/learning/dot-net-maui-essential-training/)
+* [(DE) .NET MAUI Grundkurs by André Krämer](https://www.linkedin.com/learning/dot-net-maui-grundkurs/)
