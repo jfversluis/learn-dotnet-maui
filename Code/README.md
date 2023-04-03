@@ -26,6 +26,7 @@ Underneath you will find a list of open-source plugins that are ready to use wit
 
 Remember; every plugin is just someone else doing work you could've done yourself. If you find yourself relying on these packages, reach out to the maintainers with some nice words or consider sponsoring them if you can.
 
+* [Camera.MAUI](https://github.com/hjam40/Camera.MAUI/issues): A CameraView for iOS, Android, macOS _and_ Windows that allows you to take snapshots and even scan and generate barcodes!
 * [CommunityToolkit.Maui](https://github.com/CommunityToolkit/Maui): The .NET MAUI Community Toolkit is a community-created library that contains .NET MAUI Extensions, Advanced UI/UX Controls, and Behaviors to help make your life as a .NET MAUI developer easier.
 * [CommunityToolkit.Maui.Markup](https://github.com/CommunityToolkit/Maui.Markup): The .NET MAUI Markup Community Toolkit is a community-created library that contains Fluent C# Extension Methods to easily create your User Interface in C#.
 * [CommunityToolkit.Maui.MediaElement](https://github.com/CommunityToolkit/Maui): with the MediaElement you can play audio and video right from your .NET MAUI app! It lives in the .NET MAUI Community Toolkit repository, but it's a seperate package.
