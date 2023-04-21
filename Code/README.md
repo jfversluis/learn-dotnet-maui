@@ -36,6 +36,7 @@ Remember; every plugin is just someone else doing work you could've done yoursel
 * [Maui.GoogleMaps](https://github.com/themronion/Maui.GoogleMaps): don't want Apple Maps? With this plugin you get Google Maps on both iOS and Android, filled with options!
 * [MetroLog.Maui](https://github.com/roubachof/MetroLog): lightweight logging framework with .NET MAUI support.
 * [Plugin.Fingerprint](https://github.com/smstuebe/xamarin-fingerprint): biometric login support for .NET MAUI.
+* [Plugin.Maui.AppRating](https://github.com/FabriBertani/Plugin.Maui.AppRating): `Plugin.Maui.AppRating` gives developers a fast and easy way to ask users to rate the app on the stores.
 * [Plugin.Maui.Audio](https://github.com/jfversluis/Plugin.Maui.Audio): library for playing audio in your .NET MAUI app.
 * [Plugin.Maui.ScreenBrightness](https://github.com/jfversluis/Plugin.Maui.ScreenBrightness): library for getting and setting the screen brightness in your .NET MAUI app.
 * [Shiny](https://github.com/shinyorg/shiny): background tasks, Bluetooth, GPS, NFC, push notifications and more.
