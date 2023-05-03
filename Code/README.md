@@ -19,6 +19,7 @@ Over the years with Xamarin many people have proven that Xamarin and now .NET MA
 ## Extensions
 
 * [MAUI App Accelerator](https://github.com/mrlacey/MauiAppAccelerator): Jumpstart your .NET MAUI application development by scaffolding the project you want. Specify the coding style, navigation pattern, pages, and features you want in your app as a starting point.
+* [.NET MAUI Essentials](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.MauiEssentials): A collection of Visual Studio extensions to help with .NET MAUI development.
 
 ## Plugins / NuGets
 
