@@ -35,10 +35,14 @@ Remember; every plugin is just someone else doing work you could've done yoursel
 * [Maui.Controls.BottomSheet](https://github.com/naweed/Maui.Controls.BottomSheet): A simple customizable Bottom Sheet control built using .NET MAUI.
 * [Maui.Controls.RatingView](https://github.com/naweed/Maui.Controls.RatingView): A simple and customizable Rating View control for use with .NET MAUI Apps.
 * [Maui.GoogleMaps](https://github.com/themronion/Maui.GoogleMaps): don't want Apple Maps? With this plugin you get Google Maps on both iOS and Android, filled with options!
+* [Maui.Nuke](https://github.com/roubachof/Maui.Nuke): Maui version of the Nuke iOS image caching native library.
 * [MetroLog.Maui](https://github.com/roubachof/MetroLog): lightweight logging framework with .NET MAUI support.
 * [Plugin.Fingerprint](https://github.com/smstuebe/xamarin-fingerprint): biometric login support for .NET MAUI.
 * [Plugin.Maui.AppRating](https://github.com/FabriBertani/Plugin.Maui.AppRating): `Plugin.Maui.AppRating` gives developers a fast and easy way to ask users to rate the app on the stores.
 * [Plugin.Maui.Audio](https://github.com/jfversluis/Plugin.Maui.Audio): library for playing audio in your .NET MAUI app.
 * [Plugin.Maui.ScreenBrightness](https://github.com/jfversluis/Plugin.Maui.ScreenBrightness): library for getting and setting the screen brightness in your .NET MAUI app.
+* [Sharpnado.CollectionView](https://github.com/roubachof/Sharpnado.CollectionView): A performant list view supporting: grid, horizontal and vertical layout, drag and drop, reveal animations and moar.
+* [Sharpnado.Tabs](https://github.com/roubachof/Sharpnado.Tabs): Pure MAUI Tabs, including fixed tabs, scrollable tabs, bottom tabs, badge, segmented control, custom tabs, button tabs, bendable tabs...
+* [Sharpnado.TaskLoaderView](https://github.com/roubachof/Sharpnado.TaskLoaderView): Free yourself from IsBusy=true! The `TaskLoaderView` is a UI component that handles all your UI loading state (Loading, Error, Result, Notification), and removes all the pain of async loading from your view models (try catch / async void / IsBusy / HasErrors / base view models / ...).
 * [Shiny](https://github.com/shinyorg/shiny): background tasks, Bluetooth, GPS, NFC, push notifications and more.
 * [ZXing.Net.Maui](https://github.com/redth/ZXing.Net.Maui): barcode scanning in Xamarin was easy with ZXing, now we have the same power for .NET MAUI!
