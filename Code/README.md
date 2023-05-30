@@ -46,4 +46,5 @@ Remember; every plugin is just someone else doing work you could've done yoursel
 * [Sharpnado.Tabs](https://github.com/roubachof/Sharpnado.Tabs): Pure MAUI Tabs, including fixed tabs, scrollable tabs, bottom tabs, badge, segmented control, custom tabs, button tabs, bendable tabs...
 * [Sharpnado.TaskLoaderView](https://github.com/roubachof/Sharpnado.TaskLoaderView): Free yourself from IsBusy=true! The `TaskLoaderView` is a UI component that handles all your UI loading state (Loading, Error, Result, Notification), and removes all the pain of async loading from your view models (try catch / async void / IsBusy / HasErrors / base view models / ...).
 * [Shiny](https://github.com/shinyorg/shiny): background tasks, Bluetooth, GPS, NFC, push notifications and more.
+* [UraniumUI](https://github.com/enisn/UraniumUI): Free & Open-Source UI Kit for .NET MAUI.
 * [ZXing.Net.Maui](https://github.com/redth/ZXing.Net.Maui): barcode scanning in Xamarin was easy with ZXing, now we have the same power for .NET MAUI!
