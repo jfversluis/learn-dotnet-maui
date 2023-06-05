@@ -35,6 +35,7 @@ Remember; every plugin is just someone else doing work you could've done yoursel
 * [LocalizationResourceManager.Maui](https://github.com/SirJohnK/LocalizationResourceManager.Maui): The .NET MAUI equivalent of the localization helpers that were in the Xamarin Community Toolkit.
 * [Maui.Controls.BottomSheet](https://github.com/naweed/Maui.Controls.BottomSheet): A simple customizable Bottom Sheet control built using .NET MAUI.
 * [Maui.Controls.RatingView](https://github.com/naweed/Maui.Controls.RatingView): A simple and customizable Rating View control for use with .NET MAUI Apps.
+* [Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid): DataGrid library for .NET MAUI applications.
 * [Maui.GoogleMaps](https://github.com/themronion/Maui.GoogleMaps): don't want Apple Maps? With this plugin you get Google Maps on both iOS and Android, filled with options!
 * [Maui.Nuke](https://github.com/roubachof/Maui.Nuke): Maui version of the Nuke iOS image caching native library.
 * [MetroLog.Maui](https://github.com/roubachof/MetroLog): lightweight logging framework with .NET MAUI support.
