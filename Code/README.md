@@ -4,6 +4,7 @@ Great plugins, third-party components, wonderful UI replications, real-world .NE
 
 ## Components
 
+* [DevExpress](https://www.devexpress.com/)
 * [Grial UI Kit](https://grialkit.com/)
 * [Syncfusion](https://www.syncfusion.com/maui-controls)
 * [Telerik](https://www.telerik.com/maui-ui)
