@@ -42,6 +42,7 @@ Remember; every plugin is just someone else doing work you could've done yoursel
 * [Plugin.Maui.AppRating](https://github.com/FabriBertani/Plugin.Maui.AppRating): `Plugin.Maui.AppRating` gives developers a fast and easy way to ask users to rate the app on the stores.
 * [Plugin.Maui.Audio](https://github.com/jfversluis/Plugin.Maui.Audio): library for playing audio in your .NET MAUI app.
 * [Plugin.Maui.ScreenBrightness](https://github.com/jfversluis/Plugin.Maui.ScreenBrightness): library for getting and setting the screen brightness in your .NET MAUI app.
+* [Plugin.Maui.ScreenSecurity](https://github.com/FabriBertani/Plugin.Maui.ScreenSecurity): Safeguard your .NET MAUI app effortlessly by preventing content exposure, screenshots, and recordings with ease.
 * [Plugin.NFC](https://github.com/franckbour/Plugin.NFC): a Cross-Platform NFC (Near Field Communication) plugin to easily read and write NFC tags in your Xamarin Forms or .NET MAUI applications.
 * [Sharpnado.CollectionView](https://github.com/roubachof/Sharpnado.CollectionView): A performant list view supporting: grid, horizontal and vertical layout, drag and drop, reveal animations and moar.
 * [Sharpnado.Tabs](https://github.com/roubachof/Sharpnado.Tabs): Pure MAUI Tabs, including fixed tabs, scrollable tabs, bottom tabs, badge, segmented control, custom tabs, button tabs, bendable tabs...
