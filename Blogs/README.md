@@ -15,6 +15,7 @@ You don't want videos or any of that stuff, just give me a blog post so I can us
 * [Jean-Marie Alfonsi](https://www.sharpnado.com/)
 * [James Montemagno](https://montemagno.com)
 * [Jean-Emmanuel Baillat](https://www.mauicestclair.fr) (🇫🇷/🇬🇧): Learn to build cool apps with .NET MAUI, even if you just started!
+* [Julian Ewers-Peters](https://ewerspej.hashnode.dev): A blog about all things .NET and MAUI
 * [Kym Phillpots](https://kymphillpotts.com/): Kym is doing amazing things with replicating and creating beautyfull UI designs in .NET MAUI.
 * [Leomaris Reyes](https://askxammy.com)
 * [Luis Matos](https://www.luismts.com/)
