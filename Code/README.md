@@ -46,6 +46,7 @@ Remember; every plugin is just someone else doing work you could've done yoursel
 | [Plugin.Fingerprint](https://github.com/smstuebe/xamarin-fingerprint) | Biometric login support for .NET MAUI. |
 | [Plugin.Maui.AppRating](https://github.com/FabriBertani/Plugin.Maui.AppRating) | `Plugin.Maui.AppRating` gives developers a fast and easy way to ask users to rate the app on the stores. |
 | [Plugin.Maui.Audio](https://github.com/jfversluis/Plugin.Maui.Audio) | Library for playing audio in your .NET MAUI app. |
+| [Plugin.Maui.Calendar](https://github.com/yurkinh/Plugin.Maui.Calendar) | Amazing calendar control for iOS, Android, Windows, macOS _and_ Tizen! Ported from the great Xamarin.Plugin.Calendar plugin. |
 | [Plugin.Maui.CalendarStore](https://github.com/jfversluis/Plugin.Maui.CalendarStore) | Library for accessing the device calendars, events and attendees in your .NET MAUI app. |
 | [Plugin.Maui.Pedometer](https://github.com/jfversluis/Plugin.Maui.Pedometer) | Library for accessing the device's pedometer in your .NET MAUI app. |
 | [Plugin.Maui.ScreenBrightness](https://github.com/jfversluis/Plugin.Maui.ScreenBrightness) | Library for getting and setting the screen brightness in your .NET MAUI app. |
