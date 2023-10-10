@@ -19,3 +19,9 @@ Light up that fireplace, get a coffee or tea, snuggle in with that blanket and g
 | Title | Author | Release |
 | ----------- | ----------- | ------- |
 | [Cross-Plattform-Apps mit .NET MAUI entwickeln: Mit C# für Android, iOS, macOS und Windows programmieren.](https://www.amazon.de/Cross-Plattform-Apps-NET-MAUI-entwickeln-programmieren/dp/3446472614) (print + ebook) | [André Krämer](https://github.com/andrekraemer) | December 13, 2022 |
+
+### French Books
+
+| Title | Author | Release |
+| ----------- | ----------- | ------- |
+| [.NET MAUI - Le Guide Complet: Un Seul Projet, Toutes les Plateformes](https://www.amazon.fr/dp/B0CKD2BPS1) | Olivier Dahan | October 3, 2023 |
