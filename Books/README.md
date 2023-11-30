@@ -6,6 +6,7 @@ Light up that fireplace, get a coffee or tea, snuggle in with that blanket and g
 
 | Title | Author | Release |
 | ----------- | ----------- | ------- |
+| [The MVVM Pattern in .NET MAUI](https://www.packtpub.com/product/the-mvvm-pattern-in-net-maui/9781805125006) | [Pieter Nijs](https://blog.pieeatingninjas.be/) | November 30, 2023 |
 | [.NET MAUI in Action](https://www.manning.com/books/dot-net-maui-in-action) (print + ebook) | [Matt Goldman](https://github.com/matt-goldman) | August 8, 2023 |
 | [.NET MAUI for C# Developers: Build cross-platform mobile and desktop applications](https://www.amazon.com/NET-MAUI-Developers-cross-platform-applications-ebook/dp/B0BX3R3W9V) | [Jesse Liberty](https://twitter.com/JesseLiberty) and [Rodrigo Juarez](https://twitter.com/rodrigojuarez) | March 31st 2023 |
 | [Introducing .NET MAUI](https://www.amazon.com/Introducing-NET-MAUI-Cross-platform-Multi-platform-ebook/dp/B0BSPQXLZY) (print + ebook) | [Shaun Lawrence](https://github.com/bijington) | March 30, 2023 |
