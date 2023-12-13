@@ -19,6 +19,9 @@ Over the years with Xamarin many people have proven that Xamarin and now .NET MA
 
 ## Extensions
 
+* [Official .NET MAUI VS Code Extension)(https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-maui): with the official .NET MAUI VS Code extension you enable the development of .NET MAUI apps through VS Code.
+* [.NET MAUI - Archive / Publish tool](https://marketplace.visualstudio.com/items?itemName=banditoth.VSCode-MAUI-Archive): Publish and archive your .NET MAUI apps with ease. This VS Code extension helps you with publishing profiles, keystores and more!
+
 * [MAUI App Accelerator](https://github.com/mrlacey/MauiAppAccelerator): Jumpstart your .NET MAUI application development by scaffolding the project you want. Specify the coding style, navigation pattern, pages, and features you want in your app as a starting point.
 * [.NET MAUI Essentials](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.MauiEssentials): A collection of Visual Studio extensions to help with .NET MAUI development.
 
@@ -48,6 +51,7 @@ Remember; every plugin is just someone else doing work you could've done yoursel
 | [Plugin.Maui.Audio](https://github.com/jfversluis/Plugin.Maui.Audio) | Library for playing audio in your .NET MAUI app. |
 | [Plugin.Maui.Calendar](https://github.com/yurkinh/Plugin.Maui.Calendar) | Amazing calendar control for iOS, Android, Windows, macOS _and_ Tizen! Ported from the great Xamarin.Plugin.Calendar plugin. |
 | [Plugin.Maui.CalendarStore](https://github.com/jfversluis/Plugin.Maui.CalendarStore) | Library for accessing the device calendars, events and attendees in your .NET MAUI app. |
+| [Plugin.Maui.KeyListener](https://github.com/davidortinau/Plugin.Maui.KeyListener) | Library for listening to keystrokes in your .NET MAUI desktop app. |
 | [Plugin.Maui.Pedometer](https://github.com/jfversluis/Plugin.Maui.Pedometer) | Library for accessing the device's pedometer in your .NET MAUI app. |
 | [Plugin.Maui.ScreenBrightness](https://github.com/jfversluis/Plugin.Maui.ScreenBrightness) | Library for getting and setting the screen brightness in your .NET MAUI app. |
 | [Plugin.Maui.ScreenSecurity](https://github.com/FabriBertani/Plugin.Maui.ScreenSecurity) | Safeguard your .NET MAUI app effortlessly by preventing content exposure, screenshots, and recordings with ease. |
