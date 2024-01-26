@@ -55,6 +55,7 @@ Remember; every plugin is just someone else doing work you could've done yoursel
 | [Plugin.Maui.Pedometer](https://github.com/jfversluis/Plugin.Maui.Pedometer) | Library for accessing the device's pedometer in your .NET MAUI app. |
 | [Plugin.Maui.ScreenBrightness](https://github.com/jfversluis/Plugin.Maui.ScreenBrightness) | Library for getting and setting the screen brightness in your .NET MAUI app. |
 | [Plugin.Maui.ScreenSecurity](https://github.com/FabriBertani/Plugin.Maui.ScreenSecurity) | Safeguard your .NET MAUI app effortlessly by preventing content exposure, screenshots, and recordings with ease. |
+| [Plugin.Maui.ScreenRecording](https://github.com/jfversluis/Plugin.Maui.ScreenRecording) | Allow your users to make screen recordings from within your .NET MAUI app. |
 | [Plugin.NFC](https://github.com/franckbour/Plugin.NFC) | A Cross-Platform NFC (Near Field Communication) plugin to easily read and write NFC tags in your Xamarin Forms or .NET MAUI applications. |
 | [Sharpnado.CollectionView](https://github.com/roubachof/Sharpnado.CollectionView) | A performant list view supporting: grid, horizontal and vertical layout, drag and drop, reveal animations and more. |
 | [Sharpnado.Tabs](https://github.com/roubachof/Sharpnado.Tabs) | Pure MAUI Tabs, including fixed tabs, scrollable tabs, bottom tabs, badge, segmented control, custom tabs, button tabs, bendable tabs... |
