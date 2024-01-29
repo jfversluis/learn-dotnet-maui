@@ -19,7 +19,7 @@ Over the years with Xamarin many people have proven that Xamarin and now .NET MA
 
 ## Extensions
 
-* [Official .NET MAUI VS Code Extension)(https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-maui): with the official .NET MAUI VS Code extension you enable the development of .NET MAUI apps through VS Code.
+* [Official .NET MAUI VS Code Extension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-maui): with the official .NET MAUI VS Code extension you enable the development of .NET MAUI apps through VS Code.
 * [.NET MAUI - Archive / Publish tool](https://marketplace.visualstudio.com/items?itemName=banditoth.VSCode-MAUI-Archive): Publish and archive your .NET MAUI apps with ease. This VS Code extension helps you with publishing profiles, keystores and more!
 
 * [MAUI App Accelerator](https://github.com/mrlacey/MauiAppAccelerator): Jumpstart your .NET MAUI application development by scaffolding the project you want. Specify the coding style, navigation pattern, pages, and features you want in your app as a starting point.
