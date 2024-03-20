@@ -51,6 +51,7 @@ Remember; every plugin is just someone else doing work you could've done yoursel
 | [Plugin.Maui.Audio](https://github.com/jfversluis/Plugin.Maui.Audio) | Library for playing audio in your .NET MAUI app. |
 | [Plugin.Maui.Calendar](https://github.com/yurkinh/Plugin.Maui.Calendar) | Amazing calendar control for iOS, Android, Windows, macOS _and_ Tizen! Ported from the great Xamarin.Plugin.Calendar plugin. |
 | [Plugin.Maui.CalendarStore](https://github.com/jfversluis/Plugin.Maui.CalendarStore) | Library for accessing the device calendars, events and attendees in your .NET MAUI app. |
+| [Plugin.Maui.DebugRainbows](https://github.com/sthewissen/Plugin.Maui.DebugRainbows) | Library for helping you debug your visual designs with .NET MAUI. |
 | [Plugin.Maui.KeyListener](https://github.com/davidortinau/Plugin.Maui.KeyListener) | Library for listening to keystrokes in your .NET MAUI desktop app. |
 | [Plugin.Maui.Pedometer](https://github.com/jfversluis/Plugin.Maui.Pedometer) | Library for accessing the device's pedometer in your .NET MAUI app. |
 | [Plugin.Maui.ScreenBrightness](https://github.com/jfversluis/Plugin.Maui.ScreenBrightness) | Library for getting and setting the screen brightness in your .NET MAUI app. |
