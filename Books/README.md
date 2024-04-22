@@ -6,6 +6,7 @@ Light up that fireplace, get a coffee or tea, snuggle in with that blanket and g
 
 | Title | Author | Release |
 | ----------- | ----------- | ------- |
+| [.NET MAUI Cross-Platform Application Development (Second Edition)](https://www.amazon.com/NET-MAUI-Cross-Platform-Application-Development/dp/1835080596) (print + ebook) | Roger Ye | March 25, 2024 |
 | [.NET MAUI Projects](https://www.packtpub.com/product/net-maui-projects-third-edition/9781837634910) | [Michael Cummings](http://michaelcummings.net/) | February 2024 |
 | [The MVVM Pattern in .NET MAUI](https://www.packtpub.com/product/the-mvvm-pattern-in-net-maui/9781805125006) | [Pieter Nijs](https://blog.pieeatingninjas.be/) | November 30, 2023 |
 | [.NET MAUI in Action](https://www.manning.com/books/dot-net-maui-in-action) (print + ebook) | [Matt Goldman](https://github.com/matt-goldman) | August 8, 2023 |
