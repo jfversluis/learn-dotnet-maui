@@ -26,3 +26,4 @@ And action! If you like to learn through videos, this is the place for you! Here
 * [.NET MAUI Essential Training by Matt Milner](https://www.linkedin.com/learning/dot-net-maui-essential-training/)
 * [(DE) .NET MAUI Grundkurs by André Krämer](https://www.linkedin.com/learning/dot-net-maui-grundkurs/)
 * [.NET MAUI esencial by Rodrigo Díaz Concha (In Spanish language)](https://www.linkedin.com/learning/dot-net-maui-esencial)
+* [Domina .NET MAUI by Rodrigo Díaz Concha (In Spanish language)](https://www.linkedin.com/learning/domina-dot-net-maui)
