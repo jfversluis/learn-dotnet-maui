@@ -46,13 +46,14 @@ Remember; every plugin is just someone else doing work you could've done yoursel
 | [Maui.Nuke](https://github.com/roubachof/Maui.Nuke) | .NET MAUI version of the Nuke iOS image caching native library. |
 | [MetroLog.Maui](https://github.com/roubachof/MetroLog) | Lightweight logging framework with .NET MAUI support. |
 | [MMImageLoading](https://github.com/Level28-de/MmImageLoading) | This is FFImageLoading but for .NET MAUI! SVG support, caching of images, all kinds of effects, that's what this plugin is about. |
-| [Plugin.Fingerprint](https://github.com/smstuebe/xamarin-fingerprint) | Biometric login support for .NET MAUI. |
 | [Plugin.Maui.AppRating](https://github.com/FabriBertani/Plugin.Maui.AppRating) | `Plugin.Maui.AppRating` gives developers a fast and easy way to ask users to rate the app on the stores. |
 | [Plugin.Maui.Audio](https://github.com/jfversluis/Plugin.Maui.Audio) | Library for playing audio in your .NET MAUI app. |
+| [Plugin.Maui.Biometric](https://github.com/FreakyAli/Plugin.Maui.Biometric) | Biometric login support for .NET MAUI. |
 | [Plugin.Maui.Calendar](https://github.com/yurkinh/Plugin.Maui.Calendar) | Amazing calendar control for iOS, Android, Windows, macOS _and_ Tizen! Ported from the great Xamarin.Plugin.Calendar plugin. |
 | [Plugin.Maui.CalendarStore](https://github.com/jfversluis/Plugin.Maui.CalendarStore) | Library for accessing the device calendars, events and attendees in your .NET MAUI app. |
 | [Plugin.Maui.DebugRainbows](https://github.com/sthewissen/Plugin.Maui.DebugRainbows) | Library for helping you debug your visual designs with .NET MAUI. |
 | [Plugin.Maui.KeyListener](https://github.com/davidortinau/Plugin.Maui.KeyListener) | Library for listening to keystrokes in your .NET MAUI desktop app. |
+| [Plugin.Maui.LifecycleHelper](https://github.com/Zaibatsu89/Plugin.Maui.LifecycleHelper/) | Library to implement lifecycle triggers in Pages of Shell, NavigationPage or TabbedPage inside a .NET MAUI application. |
 | [Plugin.Maui.Pedometer](https://github.com/jfversluis/Plugin.Maui.Pedometer) | Library for accessing the device's pedometer in your .NET MAUI app. |
 | [Plugin.Maui.ScreenBrightness](https://github.com/jfversluis/Plugin.Maui.ScreenBrightness) | Library for getting and setting the screen brightness in your .NET MAUI app. |
 | [Plugin.Maui.ScreenSecurity](https://github.com/FabriBertani/Plugin.Maui.ScreenSecurity) | Safeguard your .NET MAUI app effortlessly by preventing content exposure, screenshots, and recordings with ease. |
