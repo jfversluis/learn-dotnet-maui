@@ -54,6 +54,7 @@ Remember; every plugin is just someone else doing work you could've done yoursel
 | [Plugin.Maui.DebugRainbows](https://github.com/sthewissen/Plugin.Maui.DebugRainbows) | Library for helping you debug your visual designs with .NET MAUI. |
 | [Plugin.Maui.KeyListener](https://github.com/davidortinau/Plugin.Maui.KeyListener) | Library for listening to keystrokes in your .NET MAUI desktop app. |
 | [Plugin.Maui.LifecycleHelper](https://github.com/Zaibatsu89/Plugin.Maui.LifecycleHelper/) | Library to implement lifecycle triggers in Pages of Shell, NavigationPage or TabbedPage inside a .NET MAUI application. |
+| [Plugin.Maui.OCR](https://github.com/kfrancis/ocr) | Library to add text recognition (OCR) in your .NET MAUI app. |
 | [Plugin.Maui.Pedometer](https://github.com/jfversluis/Plugin.Maui.Pedometer) | Library for accessing the device's pedometer in your .NET MAUI app. |
 | [Plugin.Maui.ScreenBrightness](https://github.com/jfversluis/Plugin.Maui.ScreenBrightness) | Library for getting and setting the screen brightness in your .NET MAUI app. |
 | [Plugin.Maui.ScreenSecurity](https://github.com/FabriBertani/Plugin.Maui.ScreenSecurity) | Safeguard your .NET MAUI app effortlessly by preventing content exposure, screenshots, and recordings with ease. |
