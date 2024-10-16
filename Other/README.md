@@ -4,7 +4,7 @@ Here you find some other resources on .NET MAUI which don't really fit any other
 
 ## Newsletters
 
-* [Xamarin Weekly](https://weeklyxamarin.com/): hand-picked round up of the best Xamarin (and .NET MAUI!) development links every week. Right in your email inbox, or check out their mobile app!
+* [Sands of MAUI](https://www.telerik.com/blogs/tag/sands-of-maui): weekly latest news from the .NET MAUI Community by our friends at Progress Telerik.
 
 ## Podcasts
 
