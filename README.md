@@ -20,7 +20,7 @@ Happy learning!
 | [Books](Books) | (E-)Books written about .NET MAUI.
 | [Code](Code) | Notable project or sample repositories with code that can be used for reference. |
 | [Services](Services) | Services that you can use with .NET MAUI apps, think of analytics, crash reporting, distribution, etc. |
-| [Social Media](Social%20Media) | Sind all your social media influencers related to .NET MAUI here. |
+| [Social Media](Social%20Media) | Find all your social media influencers related to .NET MAUI here. |
 | [Videos](Videos) | YouTube channels, Twitch streamers, full courses, etc. |
 | [Other](Other) | Links that do not fit in any of the other sections. Think of newsletters and podcasts. |
 
