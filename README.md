@@ -14,12 +14,15 @@ Happy learning!
 
 ## Resources
 
-* [Blogs](Blogs): the amazing .NET MAUI community loves blogging about their learnings. Find their blog sites in here.
-* [Books](Books): (e-)books written about .NET MAUI.
-* [Code](Code): notable project or sample repositories with code that can be used for reference.
-* [Social Media](Social%20Media): find all your social media influencers related to .NET MAUI here.
-* [Videos](Videos): YouTube channels, Twitch streamers, full courses, etc.
-* [Other](Other): links that do not fit in any of the other sections. Think of newsletters and podcasts.
+| Category | Description |
+| ----------- | ----------- |
+| [Blogs](Blogs) | The amazing .NET MAUI community loves blogging about their learnings. Find their blog sites in here. |
+| [Books](Books) | (E-)Books written about .NET MAUI.
+| [Code](Code) | Notable project or sample repositories with code that can be used for reference. |
+| [Services](Services) | Services that you can use with .NET MAUI apps, think of analytics, crash reporting, distribution, etc. |
+| [Social Media](Social%20Media) | Sind all your social media influencers related to .NET MAUI here. |
+| [Videos](Videos) | YouTube channels, Twitch streamers, full courses, etc. |
+| [Other](Other) | Links that do not fit in any of the other sections. Think of newsletters and podcasts. |
 
 ## Official Links
 
@@ -31,3 +34,5 @@ Happy learning!
 ### Attribution
 
 * Header image background: [Color pencil photo created by creativeart - www.freepik.com](https://www.freepik.com/photos/color-pencil).
+
+This repo and its resources are in no way affiliated with, or endorsed by Microsoft.
