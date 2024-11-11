@@ -6,6 +6,8 @@ Here you find services that you can use with .NET MAUI apps, think of analytics,
 
 Getting relevant crash reports is crucial with mobile apps. Find a list of services below that will make implementing the gathering of crash reports a breeze!
 
+For more in-depth research on different services, have a look at this great repository: https://github.com/mattleibow/CloudyCrashReporting
+
 | Service Name/Link | Description (in their own words, quotes from website) |
 | ----------- | ----------- |
 | [Bugsplat](https://docs.bugsplat.com/introduction/getting-started/integrations/cross-platform/dot-net-standard) | BugSplat is a powerful, user-friendly, and customizable reporting tool built by developers for developers. |
