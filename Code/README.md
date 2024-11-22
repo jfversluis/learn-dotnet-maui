@@ -38,6 +38,7 @@ Remember; every plugin is just someone else doing work you could've done yoursel
 | [CommunityToolkit.Maui.Markup](https://github.com/CommunityToolkit/Maui.Markup) | The .NET MAUI Markup Community Toolkit is a community-created library that contains Fluent C# Extension Methods to easily create your User Interface in C#. |
 | [CommunityToolkit.Maui.MediaElement](https://github.com/CommunityToolkit/Maui) | With the MediaElement you can play audio and video right from your .NET MAUI app! It lives in the .NET MAUI Community Toolkit repository, but it's a seperate package. |
 | [FFImageLoading.Compat](https://github.com/Redth/FFImageLoading.Compat) | This should only be used for transition scenarios! For true .NET MAUI support you probably want to look at MMImageLoading (see below). |
+| [GlobalKeyboardCapture.Maui](https://github.com/afernandes/GlobalKeyboardCapture.Maui) | A powerful .NET MAUI library for global keyboard capture with strong support for barcode scanners. Provides system-wide key interception, hotkeys management. |
 | [LocalizationResourceManager.Maui](https://github.com/SirJohnK/LocalizationResourceManager.Maui) | The .NET MAUI equivalent of the localization helpers that were in the Xamarin Community Toolkit. |
 | [Maui.Controls.BottomSheet](https://github.com/naweed/Maui.Controls.BottomSheet) | A simple customizable Bottom Sheet control built using .NET MAUI. |
 | [Maui.Controls.RatingView](https://github.com/naweed/Maui.Controls.RatingView) | A simple and customizable Rating View control for use with .NET MAUI Apps. |
