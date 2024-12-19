@@ -12,6 +12,9 @@ If you know about a website or resource you don't see on here yet, feel free to 
 
 Happy learning!
 
+> [!TIP]
+> Wondering what real-world apps are built with .NET MAUI? Check out [this repository](https://github.com/jfversluis/built-with-maui)!
+
 ## Resources
 
 | Category | Description |
