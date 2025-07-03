@@ -6,6 +6,8 @@ Light up that fireplace, get a coffee or tea, snuggle in with that blanket and g
 
 | Title | Author | Release |
 | ----------- | ----------- | ------- |
+| [Introducing .NET MAUI: Build and Deploy Cross-Platform Applications Using C# and .NET 9.0 Multi-Platform App UI, Second Edition](https://www.amazon.com/Introducing-NET-MAUI-Cross-platform-Multi-platform-ebook/dp/B0BSPQXLZY) (print + ebook) | [Shaun Lawrence](https://github.com/bijington) | March, 2025 |
+| [Migrating from Xamarin.Forms to .NET MAUI: A Comprehensive Guide](https://www.amazon.com/Migrating-Xamarin-Forms-NET-MAUI-Comprehensive-ebook/dp/B0DXZ6D1WM) (print + ebook) | Iris Classon | February, 2025 |
 | [.NET MAUI Cookbook: Over 80 proven recipes for MVVM, CRUD, authentication, and real-time interactivity](https://www.amazon.com/NET-MAUI-Cookbook-authentication-interactivity-ebook/dp/B0DHV34WQ5/) | Alexander Russkov | December, 2024 |
 | [.NET MAUI Cross-Platform Application Development (Second Edition)](https://www.amazon.com/NET-MAUI-Cross-Platform-Application-Development/dp/1835080596) (print + ebook) | Roger Ye | March 25, 2024 |
 | [.NET MAUI Projects](https://www.packtpub.com/product/net-maui-projects-third-edition/9781837634910) | [Michael Cummings](http://michaelcummings.net/) | February 2024 |
