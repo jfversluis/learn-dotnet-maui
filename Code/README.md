@@ -57,6 +57,7 @@ Remember; every plugin is just someone else doing work you could've done yoursel
 | [Plugin.Maui.LifecycleHelper](https://github.com/Zaibatsu89/Plugin.Maui.LifecycleHelper/) | Library to implement lifecycle triggers in Pages of Shell, NavigationPage or TabbedPage inside a .NET MAUI application. |
 | [Plugin.Maui.OCR](https://github.com/kfrancis/ocr) | Library to add text recognition (OCR) in your .NET MAUI app. |
 | [Plugin.Maui.Pedometer](https://github.com/jfversluis/Plugin.Maui.Pedometer) | Library for accessing the device's pedometer in your .NET MAUI app. |
+| [Plugin.Maui.PrivacyGlass](https://github.com/FabriBertani/Plugin.Maui.PrivacyGlass) | Protect sensitive content in your .NET MAUI apps with a frosted glass blur effect. |
 | [Plugin.Maui.ScreenBrightness](https://github.com/jfversluis/Plugin.Maui.ScreenBrightness) | Library for getting and setting the screen brightness in your .NET MAUI app. |
 | [Plugin.Maui.ScreenSecurity](https://github.com/FabriBertani/Plugin.Maui.ScreenSecurity) | Safeguard your .NET MAUI app effortlessly by preventing content exposure, screenshots, and recordings with ease. |
 | [Plugin.Maui.ScreenRecording](https://github.com/jfversluis/Plugin.Maui.ScreenRecording) | Allow your users to make screen recordings from within your .NET MAUI app. |
