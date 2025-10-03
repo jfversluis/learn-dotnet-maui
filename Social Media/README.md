@@ -41,6 +41,6 @@ Leomaris does it all and is essential to the .NET MAUI community.
 * [Shaun Lawrence](https://twitter.com/Bijington): Microsoft MVP doing amazing things with .NET MAUI in terms of games, animations and UIs
 * [Vicente Guzman](https://twitter.com/luciomsp)
 
-## Discord
+## Discord (MAUI Verse)
 
-There is an official(-ish) Discord for all things .NET. Note, this Discord is targeted more towards collaborating on the project (including .NET MAUI) rather than asking questions on how to use a certain feature. Join the Discord server [here](https://aka.ms/dotnet-discord).
+There is an official(-ish) Discord for all things .NET. Note, this Discord is targeted more towards collaborating on .NET MAUI. Join the Discord server [here](https://lnkd.in/eEhSJVTb).
