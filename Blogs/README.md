@@ -8,7 +8,7 @@ You don't want videos or any of that stuff, just give me a blog post so I can us
 
 ## Community Blogs
 
-* [Allan Ritchie](https://www.allanritchie.com)ent.
+* [Allan Ritchie](https://www.allanritchie.com)
 * [Andreas Nesheim](https://www.andreasnesheim.no/)
 * [Charlin Agramonte](https://xamgirl.com/)
 * [Damien Doumer](https://doumer.me/)
