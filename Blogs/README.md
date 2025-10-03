@@ -8,6 +8,7 @@ You don't want videos or any of that stuff, just give me a blog post so I can us
 
 ## Community Blogs
 
+* [Allan Ritchie](https://www.allanritchie.com)ent.
 * [Andreas Nesheim](https://www.andreasnesheim.no/)
 * [Charlin Agramonte](https://xamgirl.com/)
 * [Damien Doumer](https://doumer.me/)
@@ -21,7 +22,6 @@ You don't want videos or any of that stuff, just give me a blog post so I can us
 * [Luis Matos](https://www.luismts.com/)
 * [Luis Pujols](https://www.pujolsluis.com/)
 * [Mark Allibone](https://mallibone.com/)
-* [planetxamarin.com](https://planetxamarin.com): a blog (and some YouTube channels and podcasts) aggregator for Xamarin and now .NET MAUI content. You will probably find some people listed here on this wonderful website as well.
 * [Rendy Del Rosario](https://www.xamboy.com/)
 * [Saamer Mansoor](https://prototypemakers.medium.com/)
 * [Shaun Lawrence](https://blog.bijington.com): if you want to learn more about games, animations and allround great designs, Shaun is the person to keep your eye on!
