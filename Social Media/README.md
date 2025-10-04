@@ -43,4 +43,4 @@ Leomaris does it all and is essential to the .NET MAUI community.
 
 ## Discord (MAUI Verse)
 
-There is an official(-ish) Discord for all things .NET. Note, this Discord is targeted more towards collaborating on .NET MAUI. Join the Discord server [here](https://lnkd.in/eEhSJVTb).
+There is an official(-ish) Discord for all things .NET. Note, this Discord is targeted more towards collaborating on .NET MAUI. Join the Discord server [here](https://mauiverse.net/discord).

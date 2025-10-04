@@ -22,6 +22,8 @@ Over the years with Xamarin many people have proven that Xamarin and now .NET MA
 * [Ride Times](https://github.com/shinyorg/wonderland): A theme park app that provides wait times, maps, and other useful information for visitors. Built with .NET MAUI and Shiny.
 * [Heads Up Game](https://github.com/gonedotnet/headsup): Built on the [Gone .NET Show](https://gonedotnet.io) - AI powered [Heads Up](https://www.warnerbros.com/games-and-apps/heads) game clone built with .NET MAUI.  Using all of the sensors, speech to text, and sensors to create a fun game experience.
 
+> [!NOTE]
+> For more real-world examples also see: https://github.com/jfversluis/built-with-maui
 ## Extensions
 
 * [Official .NET MAUI VS Code Extension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-maui): with the official .NET MAUI VS Code extension you enable the development of .NET MAUI apps through VS Code.
@@ -73,7 +75,7 @@ Remember; every plugin is just someone else doing work you could've done yoursel
 | [Sharpnado.Tabs](https://github.com/roubachof/Sharpnado.Tabs) | Pure MAUI Tabs, including fixed tabs, scrollable tabs, bottom tabs, badge, segmented control, custom tabs, button tabs, bendable tabs... |
 | [Sharpnado.TaskLoaderView](https://github.com/roubachof/Sharpnado.TaskLoaderView) | Free yourself from IsBusy=true! The `TaskLoaderView` is a UI component that handles all your UI loading state (Loading, Error, Result, Notification), and removes all the pain of async loading from your view models (try catch / async void / IsBusy / HasErrors / base view models / ...). |
 | [Shiny Mobile](https://github.com/shinyorg/shiny) | Background tasks, Bluetooth, GPS, Geofencing, local & push notifications and more. |
-| [Shiny Mediator](https://shinylib.net/mediator/) | A mediator library for .NET MAUI applications, facilitating communication between components in a structured way.  Comes with caching, offline data, and more. |
+| [Shiny Mediator](https://shinylib.net/mediator/) | A mediator library for .NET MAUI applications, facilitating communication between components in a structured way. Comes with caching, offline data, and more. |
 | [Shiny MAUI Shell](https://shinylib.net/maui/) | A library that makes Shell work with your viewmodels by providing lifecycle, navigation services, & more.  Source generator all of your routes to register them properly with MAUI and dependency injection! |
 | [Syncfusion .NET MAUI Toolkit](https://github.com/syncfusion/maui-toolkit) | The Syncfusion Toolkit for .NET MAUI is an open-source library offering high-quality, customizable UI components, controls, and file-format libraries for building rich, interactive applications across iOS, Android, macOS, and Windows. |
 | [UraniumUI](https://github.com/enisn/UraniumUI) | Free & Open-Source UI Kit for .NET MAUI. |

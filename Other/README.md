@@ -10,4 +10,4 @@ Here you find some other resources on .NET MAUI which don't really fit any other
 
 * [.NET MAUI Podcast](https://www.dotnetmauipodcast.com/): keep up with the latest news in the world of mobile & desktop development with the official .NET MAUI podcast!
 * [Merge Conflict](https://www.mergeconflict.fm/): not necessarily .NET MAUI only, but certainly related.
-* [Gone .NET](https://www.gonedotnet.io/): All the latest in .NET(including MAUI) developer technologies
+* [Gone .NET](https://www.gonedotnet.io/): All the latest in .NET (including MAUI) developer technologies
