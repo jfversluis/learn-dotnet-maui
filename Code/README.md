@@ -14,7 +14,6 @@ Great plugins, third-party components, wonderful UI replications, real-world .NE
 Over the years with Xamarin many people have proven that Xamarin and now .NET MAUI is very capable of creating amazing looking user-interfaces. Here you will find a list of resource that prove this point.
 
 * [Javiers' Good Looking UIs Samples repo](https://github.com/jsuarezruiz/dotnet-maui-showcase)
-* [Snppts](https://snppts.dev)
 * [Marvelous .NET MAUI](https://github.com/RadekVyM/MarvelousMAUI): This project demonstrates how to develop tailored UI using .NET MAUI. However, Marvelous .NET MAUI is not just a demonstration, it is a **fully functional app**.
 
 ## Real World Samples
@@ -24,6 +23,7 @@ Over the years with Xamarin many people have proven that Xamarin and now .NET MA
 
 > [!NOTE]
 > For more real-world examples also see: https://github.com/jfversluis/built-with-maui
+
 ## Extensions
 
 * [Official .NET MAUI VS Code Extension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-maui): with the official .NET MAUI VS Code extension you enable the development of .NET MAUI apps through VS Code.
