@@ -61,6 +61,7 @@ Remember; every plugin is just someone else doing work you could've done yoursel
 | [Plugin.Maui.Calendar](https://github.com/yurkinh/Plugin.Maui.Calendar) | Amazing calendar control for iOS, Android, Windows, macOS _and_ Tizen! Ported from the great Xamarin.Plugin.Calendar plugin. |
 | [Plugin.Maui.CalendarStore](https://github.com/jfversluis/Plugin.Maui.CalendarStore) | Library for accessing the device calendars, events and attendees in your .NET MAUI app. |
 | [Plugin.Maui.DebugRainbows](https://github.com/sthewissen/Plugin.Maui.DebugRainbows) | Library for helping you debug your visual designs with .NET MAUI. |
+| [Plugin.Maui.DynamicForms](https://github.com/corweg/Plugin.Maui.DynamicForms) | Library for dynamic, metadata-driven forms — no UI code needed! One line to initialize, just Metadata to define. |
 | [Plugin.Maui.KeyListener](https://github.com/davidortinau/Plugin.Maui.KeyListener) | Library for listening to keystrokes in your .NET MAUI desktop app. |
 | [Plugin.Maui.LifecycleHelper](https://github.com/Zaibatsu89/Plugin.Maui.LifecycleHelper/) | Library to implement lifecycle triggers in Pages of Shell, NavigationPage or TabbedPage inside a .NET MAUI application. |
 | [Plugin.Maui.ML](https://github.com/Clinical-Support-Systems/Plugin.Maui.ML) | A comprehensive .NET MAUI plugin for ML inference with ONNX Runtime, CoreML, and platform-native acceleration support. |
