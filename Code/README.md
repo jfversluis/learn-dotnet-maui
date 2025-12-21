@@ -55,6 +55,7 @@ Remember; every plugin is just someone else doing work you could've done yoursel
 | [Maui.Nuke](https://github.com/roubachof/Maui.Nuke) | .NET MAUI version of the Nuke iOS image caching native library. |
 | [MetroLog.Maui](https://github.com/roubachof/MetroLog) | Lightweight logging framework with .NET MAUI support. |
 | [MMImageLoading](https://github.com/Level28-de/MmImageLoading) | This is FFImageLoading but for .NET MAUI! SVG support, caching of images, all kinds of effects, that's what this plugin is about. |
+| [PinCodes.Authorization.Maui](https://github.com/welissonArley/Packages.MAUI/tree/master/src/PinCodes.Authorization) | This library provides developers with an easy way to add a customizable PIN Code page to their .NET MAUI applications. |
 | [Plugin.Maui.AppRating](https://github.com/FabriBertani/Plugin.Maui.AppRating) | `Plugin.Maui.AppRating` gives developers a fast and easy way to ask users to rate the app on the stores. |
 | [Plugin.Maui.Audio](https://github.com/jfversluis/Plugin.Maui.Audio) | Library for playing audio in your .NET MAUI app. |
 | [Plugin.Maui.Biometric](https://github.com/FreakyAli/Plugin.Maui.Biometric) | Biometric login support for .NET MAUI. |
