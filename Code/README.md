@@ -48,6 +48,9 @@ Remember; every plugin is just someone else doing work you could've done yoursel
 | [CommunityToolkit.Maui.MediaElement](https://github.com/CommunityToolkit/Maui) | With the MediaElement you can play audio and video right from your .NET MAUI app! It lives in the .NET MAUI Community Toolkit repository, but it's a seperate package. |
 | [FFImageLoading.Compat](https://github.com/Redth/FFImageLoading.Compat) | This should only be used for transition scenarios! For true .NET MAUI support you probably want to look at MMImageLoading (see below). |
 | [GlobalKeyboardCapture.Maui](https://github.com/afernandes/GlobalKeyboardCapture.Maui) | A powerful .NET MAUI library for global keyboard capture with strong support for barcode scanners. Provides system-wide key interception, hotkeys management. |
+| [Kebechet.Maui.Health](https://github.com/Kebechet/Maui.Health) | Cross-platform wrapper around Android Health Connect and iOS HealthKit for reading and writing health and fitness data in .NET MAUI apps. |
+| [Kebechet.Maui.MicrosoftClarity](https://github.com/Kebechet/Maui.MicrosoftClarity) | Abstraction around Microsoft Clarity Android and iOS SDKs for session replay and heatmaps in .NET MAUI apps. |
+| [Kebechet.Maui.RevenueCat.InAppBilling](https://github.com/Kebechet/Maui.RevenueCat.InAppBilling) | Abstraction around RevenueCat Android and iOS SDKs for in-app purchases and subscriptions in .NET MAUI apps. |
 | [LocalizationResourceManager.Maui](https://github.com/SirJohnK/LocalizationResourceManager.Maui) | The .NET MAUI equivalent of the localization helpers that were in the Xamarin Community Toolkit. |
 | [Maui.Controls.BottomSheet](https://github.com/naweed/Maui.Controls.BottomSheet) | A simple customizable Bottom Sheet control built using .NET MAUI. |
 | [Maui.Controls.RatingView](https://github.com/naweed/Maui.Controls.RatingView) | A simple and customizable Rating View control for use with .NET MAUI Apps. |
