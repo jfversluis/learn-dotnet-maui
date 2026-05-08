@@ -18,8 +18,10 @@ Over the years with Xamarin many people have proven that Xamarin and now .NET MA
 
 ## Real World Samples
 
-* [Ride Times](https://github.com/shinyorg/wonderland): A theme park app that provides wait times, maps, and other useful information for visitors. Built with .NET MAUI and Shiny.
-* [Heads Up Game](https://github.com/gonedotnet/headsup): Built on the [Gone .NET Show](https://gonedotnet.io) - AI powered [Heads Up](https://www.warnerbros.com/games-and-apps/heads) game clone built with .NET MAUI.  Using all of the sensors, speech to text, and sensors to create a fun game experience.
+* [Ride Times](https://github.com/shinyorg/wonderland): A theme park app that provides wait times, maps, and other useful information for visitors and even AI integration! Built with .NET MAUI and Shiny.
+* [Heads Up Game](https://github.com/gonedotnet/headsup): Built on the [Gone .NET Show](https://www.gonedotnet.io) - AI powered [Heads Up](https://www.warnerbros.com/games-and-apps/heads) game clone built with .NET MAUI.  Using all of the sensors, speech to text, and sensors to create a fun game experience.  CarPlay support included!
+* [Tune Games](https://github.com/aritchie/tunegames): TuneGames uses [Shiny Music](https://shinylib.net/music) to read your device music library, uses OpenAI to pick songs for a category, plays short clips, and challenges you to identify them from a shuffled list of choices. How sharp are your ears?.  CarPlay support included!
+* [Beat The Bank](https://github.com/aritchie/beatthebank): A fun little speech-to-text/text-to-speech game built with .NET MAUI. My kids love this game on the radio called "Beat the Bank". Basically, you keep asking the announcer to continue. If you get lucky, the amount keeps going up per "vault". If you're really lucky, you win the jackpot, and if you aren't lucky at all - you hit the alarm and get nothing.  CarPlay Support included!
 
 > [!NOTE]
 > For more real-world examples also see: https://github.com/jfversluis/built-with-maui
