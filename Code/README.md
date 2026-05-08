@@ -18,12 +18,13 @@ Over the years with Xamarin many people have proven that Xamarin and now .NET MA
 
 ## Real World Samples
 
-* [Ride Times](https://github.com/shinyorg/wonderland): A theme park app that provides wait times, maps, and other useful information for visitors. Built with .NET MAUI and Shiny.
-* [Heads Up Game](https://github.com/gonedotnet/headsup): Built on the [Gone .NET Show](https://gonedotnet.io) - AI powered [Heads Up](https://www.warnerbros.com/games-and-apps/heads) game clone built with .NET MAUI.  Using all of the sensors, speech to text, and sensors to create a fun game experience.
+* [Ride Times](https://github.com/shinyorg/wonderland): A theme park app that provides wait times, maps, and other useful information for visitors and even AI integration! Built with .NET MAUI and Shiny.
+* [Heads Up Game](https://github.com/gonedotnet/headsup): Built on the [Gone .NET Show](https://www.gonedotnet.io) - AI powered [Heads Up](https://www.warnerbros.com/games-and-apps/heads) game clone built with .NET MAUI.  Using all of the sensors, speech to text, and sensors to create a fun game experience.  CarPlay support included!
+* [Tune Games](https://github.com/aritchie/tunegames): TuneGames uses [Shiny Music](https://shinylib.net/music) to read your device music library, uses OpenAI to pick songs for a category, plays short clips, and challenges you to identify them from a shuffled list of choices. How sharp are your ears?.  CarPlay support included!
+* [Beat The Bank](https://github.com/aritchie/beatthebank): A fun little speech-to-text/text-to-speech game built with .NET MAUI. My kids love this game on the radio called "Beat the Bank". Basically, you keep asking the announcer to continue. If you get lucky, the amount keeps going up per "vault". If you're really lucky, you win the jackpot, and if you aren't lucky at all - you hit the alarm and get nothing.  CarPlay Support included!
 
 > [!NOTE]
 > For more real-world examples also see: https://github.com/jfversluis/built-with-maui
-
 ## Extensions
 
 * [Official .NET MAUI VS Code Extension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-maui): with the official .NET MAUI VS Code extension you enable the development of .NET MAUI apps through VS Code.
@@ -85,6 +86,14 @@ Remember; every plugin is just someone else doing work you could've done yoursel
 | [Shiny Mobile](https://github.com/shinyorg/shiny) | Background tasks, Bluetooth, GPS, Geofencing, local & push notifications and more. |
 | [Shiny Mediator](https://shinylib.net/mediator/) | A mediator library for .NET MAUI applications, facilitating communication between components in a structured way. Comes with caching, offline data, and more. |
 | [Shiny MAUI Shell](https://shinylib.net/client/maui/) | A library that makes Shell work with your viewmodels by providing lifecycle, navigation services, & more.  Source generator all of your routes to register them properly with MAUI and dependency injection! |
+| [Shiny Health](https://shinylib.net/health) | Shiny Health provides a unified API for reading and writing health data from Apple HealthKit (iOS) and Android Health Connect. It supports permission management, time-bucketed aggregate queries, data writing, and 12 cross-platform health metrics. |
+| [Shiny AI Conversation](https://shinylib.net/aiconversation) | A library for managing AI allowing you to speak directly to your AI and have it speak back to your user. |
+| [Shiny Speech](https://shinylib.net/speech) | Text-to-Speech and Speech-to-Text capabilities for .NET MAUI applications with pluggable 3rd party support |
+| [Shiny Music](https://shinylib.net/music) | Provides a unified API for accessing the device music library on Android and iOS. It supports permission management, querying track metadata, playing music files, lyrics, & album art. |
+| [Shiny DocumentDB](https://shinylib.net/documentdb) | A lightweight, database-agnostic document store for .NET that turns your database into a schema-free JSON document database with LINQ querying, spatial/geo queries, and full AOT/trimming support. Store entire object graphs — nested objects, child collections — as JSON documents. No CREATE TABLE, no ALTER TABLE, no JOINs, no migrations. One API, multiple database providers.  SQLite support is perfect for .NET MAUI apps! |
+| [Shiny Spatial](https://shinylib.net/spatial) | A library for spatial queries in .NET MAUI applications, providing geospatial data handling and querying capabilities.  Ever needed polygon based geofences?  This is the guy to do it! |
+| [Shiny Contact Store](https://shinylib.net/contactstore) | A library for managing contacts on Android and iOS, providing a unified API for querying and manipulating contact address book data. |
+| [Shiny Controls](https://shinylib.net/controls) | Floating panels, ChatView, Calendar, Agenda, Image Viewer (zoom & pan support), Image Editor, and so much more! .NET MAUI & Blazor Support |
 | [Syncfusion .NET MAUI Toolkit](https://github.com/syncfusion/maui-toolkit) | The Syncfusion Toolkit for .NET MAUI is an open-source library offering high-quality, customizable UI components, controls, and file-format libraries for building rich, interactive applications across iOS, Android, macOS, and Windows. |
 | [UraniumUI](https://github.com/enisn/UraniumUI) | Free & Open-Source UI Kit for .NET MAUI. |
 | [ZXing.Net.Maui](https://github.com/redth/ZXing.Net.Maui) | Barcode scanning in Xamarin was easy with ZXing, now we have the same power for .NET MAUI! |
