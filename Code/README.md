@@ -23,7 +23,6 @@ Over the years with Xamarin many people have proven that Xamarin and now .NET MA
 
 > [!NOTE]
 > For more real-world examples also see: https://github.com/jfversluis/built-with-maui
-
 ## Extensions
 
 * [Official .NET MAUI VS Code Extension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-maui): with the official .NET MAUI VS Code extension you enable the development of .NET MAUI apps through VS Code.
