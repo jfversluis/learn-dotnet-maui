@@ -6,7 +6,7 @@ Light up that fireplace, get a coffee or tea, snuggle in with that blanket and g
 
 | Title | Author | Release |
 | ----------- | ----------- | ------- |
-| [AI-Enabled Apps with .NET MAUI: How to Build Cross-Platform .NET MAUI Apps with the Latest AI Capabilities](https://www.amazon.com/AI-Enabled-Apps-NET-MAUI-Cross-Platform/dp/B0FGCP2XQ9) (print + ebook) | [Codrina Merigo](https://inkedin.com/in/codrinamerigo) | March 7, 2026 |
+| [AI-Enabled Apps with .NET MAUI: How to Build Cross-Platform .NET MAUI Apps with the Latest AI Capabilities](https://www.amazon.com/AI-Enabled-Apps-NET-MAUI-Cross-Platform/dp/B0FGCP2XQ9) (print + ebook) | [Codrina Merigo](https://linkedin.com/in/codrinamerigo) | March 7, 2026 |
 | [Introducing .NET MAUI: Build and Deploy Cross-Platform Applications Using C# and .NET 9.0 Multi-Platform App UI, Second Edition](https://www.amazon.com/Introducing-NET-MAUI-Cross-platform-Multi-platform-ebook/dp/B0BSPQXLZY) (print + ebook) | [Shaun Lawrence](https://github.com/bijington) | March, 2025 |
 | [Migrating from Xamarin.Forms to .NET MAUI: A Comprehensive Guide](https://www.amazon.com/Migrating-Xamarin-Forms-NET-MAUI-Comprehensive-ebook/dp/B0DXZ6D1WM) (print + ebook) | Iris Classon | February, 2025 |
 | [.NET MAUI Cookbook: Over 80 proven recipes for MVVM, CRUD, authentication, and real-time interactivity](https://www.amazon.com/NET-MAUI-Cookbook-authentication-interactivity-ebook/dp/B0DHV34WQ5/) | Alexander Russkov | December, 2024 |
